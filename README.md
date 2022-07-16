@@ -7,7 +7,7 @@ Deployed ReactApp url: https://62d2f38ec1d65d301585c1ad--hackerearth-gallery-app
 
 ## Getting Started
 
-### `MongoDB ATlas`
+### `MongoDB Atlas`
 
 Create a new MongoDB Atlas cluster. Then, inside the `backend/.env` file add a new key value pair as:
 ```
