@@ -1,6 +1,9 @@
 # hackerearth-gallery-crud-app
 This project was created as an assignment for Hackerearth Gallery CRUD App.
 
+Deployed API url: https://galleryappapihackerearth.herokuapp.com/
+Deployed ReactApp url: https://62d2f38ec1d65d301585c1ad--hackerearth-gallery-app.netlify.app/
+
 ## Getting Started
 
 ### `MongoDB ATlas`
